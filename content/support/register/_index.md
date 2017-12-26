@@ -8,7 +8,7 @@ Aprenda a forma de realizar seu cadastro e aproveitar as vantagens de usar o apl
 ## Realizando seu cadastro para acesso ao Com21
 
 - Acesse o site **[sindicon.net](http://sindicon.net/)**.
-- No site clique na imagem de acesso ao SINDICLOUD.
+- No site clique na imagem de acesso ao Com21.
 
 ![Sindicon](/support/register/images/sindicon.png?classes=shadow&width=60pc)
 
